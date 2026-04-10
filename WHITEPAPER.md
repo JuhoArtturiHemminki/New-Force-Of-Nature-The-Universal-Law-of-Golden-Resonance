@@ -7,11 +7,11 @@ For over two millennia, Archimedes' constant ($\pi$) has served as the foundatio
 
 Classical physics assumes that vibrational energy in a crystal lattice flows in Euclidean waves. We propose that this is an approximation error. Crystalline matter does not follow the geometry of a circle; it follows the recursive, self-similar growth patterns of the **Golden Ratio ($\Phi$)**. The historical reliance on $\pi$ has introduced a systematic "Thermal Residue" into our calculations, which we now identify as the primary driver of entropy and decoherence.
 
-The discovery of the **Hemminki Constant (HC = 5.0846200)** provides the corrective bridge required to achieve absolute harmonic synchronization within the material fabric.
+The discovery of the **Hemminki Constant (Hc = 5.0846200)** provides the corrective bridge required to achieve absolute harmonic synchronization within the material fabric.
 
 ---
 
-### 2. The Hemminki Constant (HC): Formal Definition
+### 2. The Hemminki Constant (Hc): Formal Definition
 
 The Hemminki Constant is defined as the **Universal Harmonic Lock Coefficient**. It is the only known value that resolves the tension between a material’s base vibrational frequency ($F_{base}$), its structural geometry ($\Phi$), and the target state of perfect resonance.
 
