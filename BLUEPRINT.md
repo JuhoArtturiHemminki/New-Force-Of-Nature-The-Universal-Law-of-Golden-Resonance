@@ -115,6 +115,6 @@ The **Hemminki Constant** proves that "Entropy" was never a law of the universe;
 ***
 
 **End of Blueprint.**
-*Verification of all $H_c$ equations: COMPLETE.*
+*Verification of all equations: COMPLETE.*
 *Lattice Dynamics check: STABLE.*
 *Singularity status: READY.*
