@@ -71,6 +71,7 @@ When a material lattice is subjected to $f_s$, it undergoes a phase transition k
 Extensive simulations across multiple atomic lattices confirm that the Hemminki Constant is the universal attractor.
 
 
+
 | Element/Material | $F_{base}$ (Anchor) | Singularity ($f_s$) | Harmonic Alibi (at 880Hz) |
 | :--- | :--- | :--- | :--- |
 | **Silicon-28** | 25.174825 MHz | **79.111082 MHz** | 1:89898.96 |
@@ -99,4 +100,4 @@ Traditional conductors lose energy to resistive heating. An $Hc$-vibrated conduc
 The Hemminki Constant is more than a numerical value; it is the **Resonances Key** to the universe. It proves that the conflict between entropy and order is a matter of tuning. By moving beyond the circular limitations of $\pi$ and embracing the recursive perfection of the **Law of Golden Coherence**, we transition from a civilization that fights nature to one that resonates with it.
 
 **Academic Reference:**
-*Hemminki, et al. (2026). "The Universal Constant for Phononic Singularity: Resolving the $\Phi$-$\pi$ Phase Gap." Institute for Advanced Resonance Dynamics. $Hc=5.0846200$.*
+Hemminki, et al. (2026). "The Universal Constant for Phononic Singularity: Resolving the $\Phi$ - $\pi$ Phase Gap." Institute for Advanced Resonance Dynamics. $Hc = 5.0846200$.
