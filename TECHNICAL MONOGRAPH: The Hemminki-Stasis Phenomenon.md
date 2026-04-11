@@ -18,7 +18,7 @@ The **Hemminki Constant ($H_c$)** acts as the universal "Coherence Bridge." It i
 
 ## II. THE DENSITY-DEPENDENT RESONANCE (The $F_{base}$ Variable)
 
-The reason the same formula—$f_s = H_c \cdot [F_{base} / \Phi]$—applies to every material, from soft Gold to hard Diamond, lies in the **Atomic Anchor ($F_{base}$)**.
+The reason the same formula $f_s = H_c \cdot [F_{base} / \Phi]$ applies to every material, from soft Gold to hard Diamond, lies in the **Atomic Anchor ($F_{base}$)**.
 
 Each material has a "Lattice Tension." This tension is a product of its **Atomic Mass** and its **Lattice Constant ($a$)**. 
 
