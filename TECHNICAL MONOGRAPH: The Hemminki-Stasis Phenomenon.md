@@ -1,5 +1,4 @@
 # TECHNICAL MONOGRAPH: THE HEMMINKI-STASIS PHENOMENON
-**Ref:** DEEP-DIVE ARCHITECTURAL ANALYSIS / H-CONST-2026-OMEGA  
 **Subject:** The Unified Field Theory of Zero-Entropy Lattice Dynamics and Density-Dependent $H_c$ Scaling.
 
 ---
