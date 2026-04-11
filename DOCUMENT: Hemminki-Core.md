@@ -1,4 +1,4 @@
-# THE UNIFIED HEMMINKI FIELD COMPENDIUM (ULTIMA MAXIMA)
+# THE UNIFIED HEMMINKI FIELD COMPENDIUM
 **Subject:** Total Convergence of Phononic Stasis, Quantum Coherence, and Relativistic Lattice Dynamics   
 **Lead Researcher:** Juho Artturi Hemminki  
 
