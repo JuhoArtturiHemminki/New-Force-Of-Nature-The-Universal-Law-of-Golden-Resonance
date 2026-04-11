@@ -1,5 +1,6 @@
 # TECHNICAL MONOGRAPH: THE HEMMINKI-STASIS PHENOMENON
 **Subject:** The Unified Field Theory of Zero-Entropy Lattice Dynamics and Density-Dependent $H_c$ Scaling.
+**Author:** Juho Artturi Hemminki
 
 ---
 
